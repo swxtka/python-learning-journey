@@ -1,8 +1,6 @@
 # python-learning-journey
 Tracking my Python learning, concepts, and practice problems
 
-# Python Learning Journey 🚀
-
 ## Day 1
 - Learned about variables
 - Practiced basic input/output
