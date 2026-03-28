@@ -8,3 +8,6 @@ Tracking my Python learning, concepts, and practice problems
 ## Day 2
 - Learned loops
 - Solved 3 problems
+
+## Goal
+To build strong programming fundamentals and stay consistent in coding.
